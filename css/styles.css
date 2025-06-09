@@ -1,0 +1,75 @@
+.hw{
+    background-color: blueviolet;
+    height: 100px;
+}
+
+.text-center{
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    margin: 0 10px;
+    
+
+}
+
+.margin{
+    margin: 35px 20px;
+} 
+
+.text-font{
+    color: white;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    
+}
+
+.middle{
+    text-align: center;
+}
+
+.margin-left{
+    margin-left: 300px;
+    
+}
+
+.image-margin{
+    width: 250px;
+    height: 250px;
+    margin-left: 38%;
+}
+
+.margin-right{
+    margin-right: 250px;
+}
+.table-css{
+    width:550px
+}
+
+table{
+    border-collapse: collapse;
+}
+
+th, td, tr{
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 5px;
+}
+thead{
+    background-color: #dddddd;
+}
+
+label, input{
+    display: block;
+    margin: 5px;
+    
+}
+.fw{
+    display: flex;
+    flex-direction: column;
+    background-color: blueviolet;
+    height: 150px;
+    color: white;
+    align-items: center;
+    justify-content: center;
+}
